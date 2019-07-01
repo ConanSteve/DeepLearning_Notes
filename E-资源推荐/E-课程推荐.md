@@ -1,6 +1,6 @@
 # 深度学习课程
 
-### Andrew NG: DeepLearning.ai
+## Andrew NG: DeepLearning.ai
 
 [[官网](http://deeplearning.ai/)] [[网易云课堂](<https://mooc.study.163.com/university/deeplearning_ai#/c>)]
 
@@ -14,9 +14,7 @@
 
 **学习笔记**：[Deeplearning深度学习笔记v5.6](./Deeplearning深度学习笔记v5.6.pdf)
 
-
-
-### Stanford CS231n: Convolutional Neural Networks for Visual Recognition
+## Stanford CS231n: Convolutional Neural Networks for Visual Recognition
 
 [[官网](http://cs231n.stanford.edu/)] [[网易云课堂](<https://study.163.com/course/introduction/1004697005.htm>)]
 
@@ -31,9 +29,7 @@
 - <https://github.com/mbadry1/CS231n-2017-Summary>
 - <https://zhuanlan.zhihu.com/p/21930884?refer=intelligentunit>
 
-
-
-### Stanford CS224n: Natural Language Processing with Deep Learning
+## Stanford CS224n: Natural Language Processing with Deep Learning
 
 [[官网](<http://web.stanford.edu/class/cs224n/>)] [[网易云课堂](<https://study.163.com/note/noteIndex.htm?id=1006185093&type=0>)]
 
